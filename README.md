@@ -10,6 +10,5 @@ En las reuniones se la empresa, le indican lo sigueinte respecto a su nomina:
 * Existen dos tipos empleados de oficina y obreros
 
 > Antes de construir el modulo, debemos empezar por identificar los actores de la realidad, y representarlos mediante entidades. ¿Qué clases debemos crear entonces en el diagrama de clases?
-Luego que ha creado el diagrama de clases pasarlas a código en javascript.
 
 ###### Desarrollar el diagrama de clases en el editor de su perferencia.
